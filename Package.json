@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",          // Web framework for building APIs
+    "mongoose": "^7.0.0",           // ODM library for MongoDB interaction
+    "dotenv": "^16.0.3",            // Environment variable management
+    "bcrypt": "^5.0.1",             // Password hashing and verification
+    "cors": "^2.8.5",               // Cross-Origin Resource Sharing
+    "nodemailer": "^6.9.1",         // Sending emails (OTP, notifications)
+    "multer": "^1.4.5-lts.1",       // File uploads (profile pictures)
+    "crypto": "^1.0.1"              // Secure OTP generation
+  }
+}
