@@ -1,0 +1,23 @@
+# Install Express - Web framework for creating APIs
+npm install express  
+
+# Install Mongoose - ODM library for MongoDB interaction
+npm install mongoose  
+
+# Install dotenv - For environment variable management
+npm install dotenv  
+
+# Install bcrypt - For hashing and comparing passwords securely
+npm install bcrypt  
+
+# Install cors - Enables Cross-Origin Resource Sharing
+npm install cors  
+
+# Install nodemailer - For sending emails (OTP, notifications)
+npm install nodemailer  
+
+# Install multer - For handling file uploads (profile pictures)
+npm install multer  
+
+# Install crypto - To generate random OTPs securely
+npm install crypto  
